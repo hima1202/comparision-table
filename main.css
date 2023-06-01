@@ -1,0 +1,25 @@
+body{
+    margin-top: 10%;
+    background-color: blanchedalmond;
+}
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: crimson;
+    margin-left: 25%;
+    
+}
+.col1{
+    background-color: rgb(116, 158, 159);
+
+}
+.col2{
+    background-color: rgb(139, 155, 183)
+    
+}
+#row{
+    color:black;
+    font-weight: 400;
+    font-style: italic;
+
+    
+}
